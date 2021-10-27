@@ -7,4 +7,4 @@ For this challenge, a few changes were made to the application to improve it and
 ## Results
 - For the Deliverable 1, a set of 2000 random latitudes and longitudes were generated, the closest city was retrieved, and an API call was made with OpenWeatherMap. With the meteorological data of the cities that were collected, the current meteorological description of each city was retrieved. Finally, a new DataFrame was created that contained the updated meteorological data and the file was exported into a "csv" type file.
 
-![](
+![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Weather%20Database/Deliverable-1.png)
