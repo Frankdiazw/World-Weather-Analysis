@@ -5,3 +5,4 @@ The purpose of this module was to help the "PLANMYTRIP" company to collect and f
 For this challenge, a few changes were made to the application to improve it and take it to the next level. The first change was to add a description of the weather to the weather data that had already been retrieved. The second change was adding input statements to filter data based on customers' preferred climates, to identify nearby hotels. Finally, with the help of Google Maps Directions api, an itinerary was created with the route of 4 cities chosen by the client.
 
 ## Results
+- For the Deliverable 1, 
