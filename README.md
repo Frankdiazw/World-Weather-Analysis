@@ -18,3 +18,9 @@ For this challenge, a few changes were made to the application to improve it and
 - Figure 2. Marker layer map with pop-up markers of the filtered search from the client.
 
 - For the **Deliverable 3**, the Google Directions API was used to create a travel itinerary showing the route between four cities chosen from the customer's possible travel destinations. Next, a marker layer map was created with a pop-up marker for each city in the itinerary.
+
+![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
+
+-Figure 3. Travel map for the 4 cities.
+
+![](
