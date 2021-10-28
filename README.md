@@ -5,16 +5,16 @@ The purpose of this module was to help the "PLANMYTRIP" company to collect and f
 For this challenge, a few changes were made to the application to improve it and take it to the next level. The first change was to add a description of the weather to the weather data that had already been retrieved. The second change was adding input statements to filter data based on customers' preferred climates, to identify nearby hotels. Finally, with the help of Google Maps Directions api, an itinerary was created with the route of 4 cities chosen by the client.
 
 ## Results
-- For the Deliverable 1, a set of 2000 random latitudes and longitudes were generated, the closest city was retrieved, and an API call was made with OpenWeatherMap. With the meteorological data of the cities that were collected, the current meteorological description of each city was retrieved. Finally, a new DataFrame was created that contained the updated meteorological data and the file was exported into a "csv" type file.
+- For the **Deliverable 1**, a set of 2000 random latitudes and longitudes were generated, the closest city was retrieved, and an API call was made with OpenWeatherMap. With the meteorological data of the cities that were collected, the current meteorological description of each city was retrieved. Finally, a new DataFrame was created that contained the updated meteorological data and the file was exported into a "csv" type file.
 
 ![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Weather%20Database/Deliverable-1.png)
 
 - Figure 1. Filtered DataFrame with meteorological data for each random city.
 
-- For the Deliverable 2, input statements were used to retrieve the customer's climate preferences, then those preferences were used to identify potential travel destinations and nearby hotels. Finally, those destinations were displayed on a marker layer map with pop-up markers.
+- For the **Deliverable 2**, input statements were used to retrieve the customer's climate preferences, then those preferences were used to identify potential travel destinations and nearby hotels. Finally, those destinations were displayed on a marker layer map with pop-up markers.
 
 ![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Vacation_Search/Deliverable-2.png)
 
 - Figure 2. Marker layer map with pop-up markers of the filtered search from the client.
 
-- For Deliverable 3, the Google Directions API was used to create a travel itinerary showing the route between four cities chosen from the customer's possible travel destinations. Next, a marker layer map was created with a pop-up marker for each city in the itinerary.
+- For the **Deliverable 3**, the Google Directions API was used to create a travel itinerary showing the route between four cities chosen from the customer's possible travel destinations. Next, a marker layer map was created with a pop-up marker for each city in the itinerary.
