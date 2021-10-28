@@ -13,3 +13,6 @@ For this challenge, a few changes were made to the application to improve it and
 
 - For the Deliverable 2, input statements were used to retrieve the customer's climate preferences, then those preferences were used to identify potential travel destinations and nearby hotels. Finally, those destinations were displayed on a marker layer map with pop-up markers.
 
+![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Vacation_Search/Deliverable-2.png)
+
+- Figure 2. Marker layer map with pop-up markers of the filtered search from the client.
