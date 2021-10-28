@@ -23,4 +23,6 @@ For this challenge, a few changes were made to the application to improve it and
 
 -Figure 3. Travel map for the 4 cities.
 
-![](
+![](https://github.com/Frankdiazw/World-Weather-Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+-Figure 4. Travel map with markers for the 4 cities.
